@@ -8,7 +8,7 @@
 
 ## Watch the Introduction Video
 
-[![n8n Skills Introduction](skills.png)](https://youtu.be/e6VvRqmUY2Y?si=6Igply3cadjO6Xx0)
+[![n8n Skills Introduction](skiills.png)](https://youtu.be/e6VvRqmUY2Y?si=6Igply3cadjO6Xx0)
 
 ---
 
